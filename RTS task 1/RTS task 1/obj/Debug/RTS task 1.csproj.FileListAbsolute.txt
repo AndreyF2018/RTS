@@ -1,0 +1,12 @@
+C:\Users\FedorovA\source\repos\RTS task 1\RTS task 1\bin\Debug\RTS task 1.exe.config
+C:\Users\FedorovA\source\repos\RTS task 1\RTS task 1\bin\Debug\RTS task 1.exe
+C:\Users\FedorovA\source\repos\RTS task 1\RTS task 1\bin\Debug\RTS task 1.pdb
+C:\Users\FedorovA\source\repos\RTS task 1\RTS task 1\obj\Debug\RTS task 1.csprojAssemblyReference.cache
+C:\Users\FedorovA\source\repos\RTS task 1\RTS task 1\obj\Debug\RTS task 1.exe
+C:\Users\FedorovA\source\repos\RTS task 1\RTS task 1\obj\Debug\RTS task 1.pdb
+C:\Users\Admin\Documents\Visual Studio 2019\Projects\RTS task 1\RTS task 1\bin\Debug\RTS task 1.exe.config
+C:\Users\Admin\Documents\Visual Studio 2019\Projects\RTS task 1\RTS task 1\bin\Debug\RTS task 1.exe
+C:\Users\Admin\Documents\Visual Studio 2019\Projects\RTS task 1\RTS task 1\bin\Debug\RTS task 1.pdb
+C:\Users\Admin\Documents\Visual Studio 2019\Projects\RTS task 1\RTS task 1\obj\Debug\RTS task 1.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2019\Projects\RTS task 1\RTS task 1\obj\Debug\RTS task 1.exe
+C:\Users\Admin\Documents\Visual Studio 2019\Projects\RTS task 1\RTS task 1\obj\Debug\RTS task 1.pdb
